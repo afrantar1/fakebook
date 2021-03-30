@@ -1,0 +1,58 @@
+.navbar {
+    font-family: Arial;
+    color: blue;
+    text-decoration: underline;
+    margin-left: 5px;
+
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.picture {
+    height: 200px;
+    weight: 60px;
+}
+
+.main {
+    background-color: lightgrey;
+    position: fixed;
+    top: 30vh;
+    left: 50vh;
+    height: 210px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.input1 {
+    padding-left: 10px;
+    width: 90%;
+    margin-bottom: 20px;
+
+}
+
+.picture1 {
+    margin-top: 60px;
+    height: 20px;
+    margin-right: 50vh;
+
+}
+
+.h {
+    text-align: center;
+    margin-left: 60px;
+}
+
+.main1 {
+    position: fixed;
+    top: 30vh;
+    left: 50vh;
+    height: 50px;
+    margin: 0 auto;
+
+}
+
+
+

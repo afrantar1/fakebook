@@ -1,0 +1,41 @@
+   p {
+            font-size: 10px;
+        }
+        #main-title{
+            color: greenyellow;
+            font-weight: bold;
+        }
+        #languages-list{
+            text-decoration: underline;
+        }
+
+        body h2.green-text:hover{
+            color: green;
+        }
+
+    .square {
+        height: 100px;
+        width: 100px;
+        color: white;
+        background-color: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .container {
+        height: 200px;
+        border: 10px solid black;
+        display: flex;
+        flex-direction: column; // vrstice, row-reversed obrantni vrstni red...
+        justify-content: flex-start;
+        align-items: center;
+        align-content: flex-end;
+
+
+    }
+    *{
+        color:blue;
+        box-sizing: border-box;
+    }
+

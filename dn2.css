@@ -1,0 +1,24 @@
+i{
+    text-decoration-style:solid;
+    color: tomato;
+    text-decoration-color: darkslategrey;
+    text-decoration: underline;
+}
+*{
+    background-color: beige;
+}
+.ime {
+    font-family: Constantia;
+    width: 200px;
+    border: 5px solid saddlebrown;
+    padding: 10px;
+    margin: 5px;
+}
+.button:hover{
+    background-color: lightcoral;
+}
+.button{
+    background-color: white;
+    border: solid black;
+}
+
